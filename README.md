@@ -35,7 +35,7 @@ This Database is a simple problem written in **MYSQL**.
 - Creat table include Id , Names and Grades
 - Insert some students As an example
 - Presentation of students who scored between 90 and 100,ranked in descending order
-- [Code](https://github.com/Hima00l/Tasks-Backend/tree/2bb7bceb3cf4a0302b1ad695befacbb4f95e31ef/Problem-Solving)
+- [Code](https://github.com/Hima00l/Tasks-Backend/tree/528839268f2da0994cc1bd8afb83b76f83a4fd3b/MySQL)
 
 ## Author
 - [Ibrahim Fikry](https://github.com/Hima00l)
