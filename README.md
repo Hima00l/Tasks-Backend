@@ -3,7 +3,8 @@
 
 ## Table of Contents
 
-- [About To-Do List](#about1)
+- [About To-Do List](#aboutTo-Do)
+- [About Problem-Solving ](#aboutPS)
 - [Features](#features)
 - [Installation](#installation)
 - [CodeReviewer](#CodeReviewer)
@@ -24,6 +25,13 @@ This project is a simple program written in **8086 Assembly** that allows the us
 It is designed to run in **emu8086**.
 
 ---
+## AboutPS
+This problem is a simple problem written in **C#**.
+
+- This Array include some words
+- Must find minimun number of char
+  
+
 
 ## Features
 
