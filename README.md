@@ -6,7 +6,6 @@
 - [About To-Do List](#aboutTo-Do)
 - [About Problem-Solving ](#aboutPS)
 - [About SQL](#aboutSQL)
-
 - [Author](#Author)
 
 ---
@@ -18,8 +17,7 @@ This project is a simple program written in **C#** that allows the user to:
 - Add the tasks with required title
 - List all tasks with ID and competion status
 - Mark tasks as Done using their ID
-
-It is designed to run in **VS**.
+-[Code](https://github.com/Hima00l)
 
 ---
 ## AboutPS
